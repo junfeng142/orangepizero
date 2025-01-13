@@ -1,5 +1,10 @@
-/download/
-*/output/*
+*.o
+*.opk
+*.ipk
+*.dge
+*.elf
+race-od/saves
+race-od/saves/*
 *~
-br.log
-/images/
+.gdb_history
+race

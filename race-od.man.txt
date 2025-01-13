@@ -1,0 +1,38 @@
+RACE!
+--------------------------------------------------------------------------------
+This is a NeoGeo Pocket emulator for MiyooCFW.
+To use this emulator, you must have compatibles ROMS with .NGP & .NGC extension.
+
+--------------------------------------------------------------------------------
+Controls :
+--------------------------------------------------------------------------------
+ * Direction pad : Neogeo Pocket pad
+ * A is button #1
+ * B is button #2
+ * START is the same that the OPTION button
+ * SELECT is the same that the OPTION button
+ * X is button #1
+ * Y is button #2
+ * R is button #1
+ * L is button #2
+ * START + SELECT to enter menu. 
+During menu browsing, R and L can go through pages of available games.
+
+--------------------------------------------------------------------------------
+Changelog :
+--------------------------------------------------------------------------------
+V1.0 : 17/10/2012
+  Initiale release
+
+--------------------------------------------------------------------------------
+Credits
+--------------------------------------------------------------------------------
+Special thanks to :
+  Judge_ for Race source code (http://www.personal.triticom.com/~erm/GP2X/).
+  d_smargin for handy_a320 gui, which have been used some part of code for race-od gui.
+  qbertaddict for test.
+  Alekmaul - alekmaul@portabledev.com (OD port)
+Without the help of the infos from these people, this emulator can't be here.
+--------------------------------------------------------------------------------
+Apaczer - apaczer.git@gmail.com (MiyooCFW port)
+--------------------------------------------------------------------------------

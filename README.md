@@ -1,1 +1,10 @@
-这是一个用于测试armv7的编译项目
+# RACE for MiyooCFW 
+## Neo Geo Pocket NGP/NGPC emulator
+
+### Build manual
+
+- target binary
+`make -j$(nproc)`
+
+- distribution IPK package
+`make -j$(nproc)` ipk
