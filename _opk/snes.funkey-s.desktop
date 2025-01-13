@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PSNES
+Name[ch]=PSNES
+Comment=PocketSNES Emulator emulator
+Comment[ch]=SFC模拟器
+Icon=PocketSNES
+Exec=run.sh %f
+Categories=emulators
+SelectorDir=/mnt/SNES
+SelectorFilter=sfc,SFC,smc,SMC,swc,SWC

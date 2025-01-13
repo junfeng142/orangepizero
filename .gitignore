@@ -1,10 +1,9 @@
 *.o
-*.opk
-*.ipk
+*.gcda
 *.dge
+*.opk
+.opk_data
+*.ipk
 *.elf
-race-od/saves
-race-od/saves/*
-*~
-.gdb_history
-race
+profile/*
+profile.zip
